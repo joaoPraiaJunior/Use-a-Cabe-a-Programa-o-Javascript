@@ -6,7 +6,5 @@ Editora: Alta Books; Edição: 1 (25 de maio de 2016)
 Idioma: Português
 ISBN-10: 8576089904
 ISBN-13: 978-8576089902
-Dimensões do produto: 23,8 x 17 x 3,4 cm
-Peso de envio: 1 Kg
 
 
